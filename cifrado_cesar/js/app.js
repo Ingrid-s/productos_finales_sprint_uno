@@ -9,7 +9,7 @@ var phrase = console.log (str);
 
 //alert('¡Ups, debes ingresar una frase sin espacios ni números!');
 
-/*se como hacer el cifrado pero no se como es la forma correcta de agrupar los elementos para que se cifren y decifren todos en pocas líneas de codigo.
+/*se como hacer el cifrado pero no se aún como es la forma correcta de agrupar los elementos para que se cifren y decifren todos en pocas líneas de codigo.
 */
 
 //var cipher = frase.charCodeAt(frase, i[0]));.....
