@@ -20,4 +20,3 @@ var otherArr=[];
       console.log(other[i]);
     }
 */
- 
