@@ -1,5 +1,5 @@
 //pedir una frase al usuario por medio de un promt
-//prompt("Ingresa una frase");
+prompt("Ingresa una frase");
 var str = 'hola';
 var phrase = console.log (str);
 //ar long = console.log(str.length);
