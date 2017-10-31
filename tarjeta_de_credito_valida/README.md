@@ -10,4 +10,4 @@
 -extraer del arreglo los digitos que ocupan posiciones pares para multiplicarlos por dos y si el resultado es mayor que 10, sumar ambos dígitos.
 -Declarar una variable "isValidCard" para que nos ayude a sumar estos numeros, a los restantes del arreglo original y aplicar %10, si el resultado es =0 entonces mostrar un mensaje de "¡Tu número es válido!"
 
-<![diagrama_tarjeta_de_credito_valida](https://www.lucidchart.com/invitations/accept/3b0655be-7915-4871-be8c-fe5238454be3)
+<![diagrama_tarjeta_de_credito_valida](./assets/images/tarjeta.png)
