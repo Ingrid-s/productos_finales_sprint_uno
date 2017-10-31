@@ -12,11 +12,19 @@ console.log (parseInt(giveMeOneCardNumber));
 
 var turn = arr.reverse();
 console.log (arr);
-var otherArr=[];
+
+/*hay que separar los números que ocupan las posiciones pares para luego multiplicarlos por dos y en caso que den más que 10, sumar ambos digitos
+*/
+
+var newArr=[];
+
+for (i = 2; i<=turn.length; i= +2) {
+      arr.push(turn.charAt(i));
+      console.log (newArr);
+
+      }
 
   /*hay que separar los números que ocupan las posiciones pares para luego multiplicarlos por dos y en caso que den más que 10, sumar ambos digitos
-  for (i = 2; i<=turn.length; i= +2) {
-    turn.push(turn.charAt(i));
-      console.log(other[i]);
-    }
+  var multiply(newArray*2)
+
 */
